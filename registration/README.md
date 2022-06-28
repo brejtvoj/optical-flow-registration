@@ -1,0 +1,1 @@
+The content of this folder is centered around the different parts of the registration process and result quantification. The input of the different methods is a image pair, alongside with their landmarks, however, only the image can also be used (scripts are written with landmarks in mind, but parts of the scripts can be used for image-only registration).

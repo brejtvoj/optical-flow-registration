@@ -1,0 +1,1 @@
+Scripts in this folder are responsible for the creation of the training dataset. The user is expected to provide a folder with the images and landmarks with the same structure as the ANHIR dataset. Output training data is then placed into a single folder.
